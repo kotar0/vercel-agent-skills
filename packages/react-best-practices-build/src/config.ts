@@ -27,7 +27,7 @@ export const SKILLS: Record<string, SkillConfig> = {
   'react-best-practices': {
     name: 'react-best-practices',
     title: 'React Best Practices',
-    description: 'React and Next.js codebases',
+    description: 'React codebases',
     skillDir: join(SKILLS_DIR, 'react-best-practices'),
     rulesDir: join(SKILLS_DIR, 'react-best-practices/rules'),
     metadataFile: join(SKILLS_DIR, 'react-best-practices/metadata.json'),
